@@ -60,5 +60,3 @@ Contribuições são bem-vindas! Se você deseja melhorar este projeto, siga os 
 3. Commit suas alterações (`git commit -am 'Adiciona nova funcionalidade'`)
 4. Faça o push para a branch (`git push origin feature/nome-da-feature`)
 5. Abra um pull request
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
