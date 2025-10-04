@@ -1,7 +1,7 @@
 
 # Sistema de Estacionamento Douglas
 
-## 🅿️ Descrição
+## 🚗 Descrição
 
 Este é um sistema de gerenciamento de estacionamento desenvolvido como parte do módulo 2 da disciplina de Programação Orientada a Objetos (POO). O projeto visa simular o funcionamento de um estacionamento, permitindo o controle de veículos estacionados, horários de entrada e saída, e cálculo de valores de cobrança.
 
